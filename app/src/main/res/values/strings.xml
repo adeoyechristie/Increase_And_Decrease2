@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Increase_And_Decrease</string>
+    <string name="Add">Increase</string>
+    <string name="number">0</string>
+    <string name="Minus">Decrease</string>
+
+</resources>
